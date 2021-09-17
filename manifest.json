@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Author: v0rdik",
+        "name": "The Stinky Pack",
+        "uuid": "ee8aa8b3-55f5-4d9d-af77-f64ca4ded499",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 17, 10 ]
+    },
+    "modules": [
+        {
+            "description": "Author: v0rdik",
+            "type": "resources",
+            "uuid": "a4ddfae5-8a81-4877-8d97-82cd439ee1b1",
+            "version": [0, 0, 1]
+        }
+    ]
+}
